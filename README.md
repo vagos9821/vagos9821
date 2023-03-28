@@ -18,9 +18,9 @@ const vagos9821 = {
   tools: [React, Node, Unity, Godot Engine, Milanote, Obsidian],
   architecture: ["microservices", "knowledge-driven", "design system pattern"],
   techCommunities: {
-                        student: "Accounting and Logistics";
-                        language: "Greek", "English";
-                        mentor: "Google";
+                        student: "Accounting and Logistics",
+                        language: "Greek", "English",
+                        mentor: "Google"
                       },
  challenge: "I am trying to get a programming job in 1 year!"
 }
