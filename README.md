@@ -20,7 +20,7 @@ const vagos9821 = {
   techCommunities: {
                         student: "Accounting and Logistics",
                         language: "Greek", "English"
-                        mentor: "Google"
+                        my-mentor: "Google"
                       },
  challenge: "I am trying to get a programming job in 1 year!"
 }
