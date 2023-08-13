@@ -15,18 +15,22 @@
 const vagos9821 = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, C++],
-  tools: [React, Node, Unity, Godot Engine, Milanote, Obsidian],
+  nickname: "Vagos",
+  birthDate: 1998,
+  favouriteTeam: "AEK" | "Original 21",
+  tools: [Python, Node, Unity, Godot Engine, Milanote, Obsidian, Notion, Visual Studio Code],
   architecture: ["microservices", "knowledge-driven", "design system pattern"],
   techCommunities: {
                         student: "Accounting and Logistics",
                         language: "Greek", "English",
-                        mentor: "Google"
+                        mentor: "Google",
+                        occupation: "Existing"
                       },
- challenge: "I am trying to get a programming job in 1 year!"
+ challenge: "I am trying to get a programming job in 6 months!"
 }
 ```
+<p align="center"><b>I love learning different things</b> so if you want to learn together, <em><b>I'll be happy to learn with you! :)</b></em><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/7466928/260318817-ce05ee8b-aa5c-4852-a2a8-07fac876941b.gif"></p>
 
-<img src="https://media3.giphy.com/media/A19W6HgNskVzy/giphy.gif?cid=ecf05e476z3anodo4il9wz3ln9q7nv4owt4zshz1bmzf643y&rid=giphy.gif&ct=s" width="150"> <em style="position:relative; top:-70px"><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
