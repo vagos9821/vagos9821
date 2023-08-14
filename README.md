@@ -14,7 +14,7 @@
 ```javascript
 const vagos9821 = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, C++],
+  code: [Javascript, HTML, CSS, Python],
   nickname: "Vagos",
   birthDate: 1998,
   favouriteTeam: "AEK" | "Original 21",
