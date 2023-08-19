@@ -14,7 +14,7 @@
 ```javascript
 const vagos9821 = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python],
+  code: [HTML, CSS, Javascript, Python, Git],
   nickname: "Vagos",
   birthDate: 1998,
   favouriteTeam: "AEK" | "Original 21",
@@ -29,6 +29,16 @@ const vagos9821 = {
  challenge: "I am trying to get a programming job in 6 months!"
 }
 ```
+
+|Language   |Language Knowledge                  |Percentage%|
+|-----------|------------------------------------|-----------|
+|HTML				|`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱`|95%				 |
+|CSS				|`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱`|80%				 |
+|JavaScript |`▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱`|65%				 |
+|Python     |`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱`|70%				 |
+|Git        |`▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱`|40%				 |
+
+
 <p align="center"><b>I love learning different things</b> so if you want to learn together, <em><b>I'll be happy to learn with you! :)</b></em><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/7466928/260318817-ce05ee8b-aa5c-4852-a2a8-07fac876941b.gif"></p>
 
 
