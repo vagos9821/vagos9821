@@ -17,7 +17,7 @@ const vagos9821 = {
   code: [HTML, CSS, Javascript, Python, Git],
   nickname: "Vagos",
   birthDate: 1998,
-  favouriteTeam: "AEK" | "Original 21",
+  title: "self-proclaimed Jr. Frontend Developer"
   tools: [Python, Node, Unity, Godot Engine, Milanote, Obsidian, Notion, Visual Studio Code],
   architecture: ["microservices", "knowledge-driven", "design system pattern"],
   techCommunities: {
