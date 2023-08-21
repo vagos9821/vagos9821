@@ -32,11 +32,11 @@ const vagos9821 = {
 
 |Language   |Language Knowledge                  |Percentage%|
 |-----------|------------------------------------|-----------|
-|HTML				|`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱`|95%				 |
-|CSS				|`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱`|80%				 |
-|JavaScript |`▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱`|65%				 |
-|Python     |`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱`|70%				 |
-|Git        |`▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱`|40%				 |
+|HTML				|`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱`|85%				 |
+|CSS				|`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱`|75%				 |
+|JavaScript |`▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱`|50%				 |
+|Python     |`▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱`|45%				 |
+|Git        |`▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱`|30%				 |
 
 
 <p align="center"><b>I love learning different things</b> so if you want to learn together, <em><b>I'll be happy to learn with you! :)</b></em><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/7466928/260318817-ce05ee8b-aa5c-4852-a2a8-07fac876941b.gif"></p>
