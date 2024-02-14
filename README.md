@@ -1,51 +1,20 @@
-<h2 align="center"> Hi, I'm Vagos9821! <img src="https://media1.giphy.com/media/1244FhGdjBNQ2c/200w.webp?cid=ecf05e472v4mkcfl4oiqcbacq0fbvd9qqarlse1xpj065viw&rid=200w.webp&ct=s" width="100"></h2>
-<img align='right' src="https://media4.giphy.com/media/oe8mxeJKJOSGY/giphy.gif?cid=ecf05e4784zoxkibkgb9l1en3n0ki0a2uddx1qyouej82ah4&rid=giphy.gif&ct=s" width="430">
-<p><em>Existing at <a href="https://en.wikipedia.org/wiki/Earth">Earth</a><img src="https://media0.giphy.com/media/RXJXrVNAOOCsTzBOU5/giphy.webp?cid=ecf05e47w93ud9tsp2fq6xoee68gb1it5a4ey253uh3q54pj&rid=giphy.webp&ct=s" width="30">
-</em></p>
+<h1 align="center">Hi 👋, I'm Vangelis</h1>
+<h3 align="center">A graduate of the university of Accounting & Finance. He has passion and has been involved in programming since a very young age. Keeps up to date with trends in technology and innovation. Based on his many years of work experience mainly as a barista and assistant accountant he has developed skills in customer service, supplier relationship management and task organization. He is constantly eager to prove that he can adapt to demanding and fast-growing work environments with commitment to reliability and consistency.</h3>
 
-<a href="https://stackoverflow.com/users/9738354/vagos9821"><img src="https://stackoverflow.com/users/flair/9738354.png?theme=dark" width="208" height="58" alt="profile for vagos9821 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for vagos9821 at Stack Overflow"></a>
+- 🌱 I’m currently learning **Frameworks, courses etc.**
 
-[![GitHub Vagos9821](https://img.shields.io/github/followers/vagos9821?label=follow&style=social)](https://github.com/vagos9821)
-<img src=https://www.codewars.com/users/vagos9821/badges/micro>
+- 💬 Ask me about **JavaScript, React, Python etc.**
 
+- 📫 How to reach me **vangelissigalas@gmail.com**
 
-### <img src="https://media2.giphy.com/media/S6fRKhrz5rFozP3T4h/200w.webp?cid=ecf05e470rv6ft0i5ahygiwm3pqvgjuwbj592r4vbmokdddo&rid=200w.webp&ct=s" width="50"> A little more about me...  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/evangelos-sigalas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/evangelos-sigalas/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/vagos9821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vagos9821" height="30" width="40" /></a>
+</p>
 
-```javascript
-const vagos9821 = {
-  pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript, Python, Git],
-  nickname: "Vagos",
-  birthDate: 1998,
-  title: "self-proclaimed Jr. Frontend Developer"
-  tools: [Python, Node, Unity, Godot Engine, Milanote, Obsidian, Notion, Visual Studio Code],
-  architecture: ["microservices", "knowledge-driven", "design system pattern"],
-  techCommunities: {
-                        student: "Accounting and Logistics",
-                        language: "Greek", "English",
-                        mentor: "Google",
-                        occupation: "Existing"
-                      },
- challenge: "I am trying to get a programming job in 6 months!"
-}
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-|Language   |Language Knowledge                  |Percentage%|
-|-----------|------------------------------------|-----------|
-|HTML				|`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱`|85%				 |
-|CSS				|`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱`|75%				 |
-|Python     |`▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱`|55%				 |
-|Javascript |`▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱`|45%				 |
-|Git        |`▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱`|30%				 |
-
-
-<p align="center"><b>I love learning different things</b> so if you want to learn together, <em><b>I'll be happy to learn with you! :)</b></em><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/7466928/260318817-ce05ee8b-aa5c-4852-a2a8-07fac876941b.gif"></p>
-
-
----
-
-
-<!---
-vagos9821/vagos9821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vagos9821&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vagos9821" /></p>
+<img src=https://www.codewars.com/users/vagos9821/badges/large>
